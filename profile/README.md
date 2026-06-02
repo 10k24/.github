@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+We are 10k24, a design studio in Los Angeles built on creativity, computing, and collaboration.
+
+Learn more at our website [10k24.com](https://10k24.com/)
+
 <!--
 
 **Here are some ideas to get you started:**
